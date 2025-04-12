@@ -3,9 +3,6 @@
 - ARM
 - RTOS
 - Embedded Software Design
-- Safe Coding with MISRA
-- Introduction to Software Testing
-- Foundations of Agile
 
 # Projects
 
